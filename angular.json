@@ -25,6 +25,7 @@
           "options": {
             "outputPath": "dist/service-centers-page",
             "index": "src/index.html",
+            "baseHref": "/service-centers-page",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
@@ -89,7 +90,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "service-centers-page:build"
+            "buildTarget": "service-centers-page:build",
           }
         },
         "test": {
@@ -98,6 +99,7 @@
             "polyfills": [
               "zone.js",
               "zone.js/testing"
+
             ],
             "tsConfig": "tsconfig.spec.json",
             "assets": [
