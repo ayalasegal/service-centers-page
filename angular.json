@@ -23,9 +23,9 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/service-centers-page",
+            "outputPath": "dist",
             "index": "src/index.html",
-            "baseHref": "/service-centers-page",
+            "baseHref": "/service-centers-page/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
