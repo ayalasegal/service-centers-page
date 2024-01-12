@@ -90,7 +90,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "service-centers-page:build",
+            "buildTarget": "service-centers-page:build"
           }
         },
         "test": {
