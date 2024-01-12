@@ -1,1 +1,67 @@
-/* You can add global styles to this file, and also import other style files */
+/* styles.css or styles.scss */
+
+/* Import the Simpler font */
+@font-face {
+    font-family: 'Simpler';
+    src: local('Simpler Light'),
+         url('./fonts/Simpler-Light.otf') format('opentype');
+    font-style: normal;
+    font-weight: unset;
+  }
+  
+  /* Set the font-family for the whole document */
+  :root {
+    --font-family: 'Simpler', sans-serif;
+    font-weight: unset;
+
+    /* ... rest of your styles ... */
+  }
+  body{
+    font-family: 'Simpler', sans-serif;
+  }
+
+
+.card-header{
+  text-align: center; color: black; font-size: 32px;font-weight: 1000; line-height: 36.96px; word-wrap: break-word; margin-bottom: 3%;
+}
+.card-container{
+  color: black;
+}
+
+.activity-buttons-container {
+  display: flex;
+  flex-wrap: wrap; /* This will make the buttons wrap to the next line if there's not enough space */
+  gap: 2%; /* Adjust the gap between buttons as needed */
+  justify-content: center;
+}
+.banner {
+  position: absolute;
+  width: 100%; /* Adjust the width as needed */
+  z-index: -1; /* Ensures the banner is underneath other elements */
+}
+.activity-button {
+  margin-top: 1%;
+}
+
+/* Default styles for larger screens */
+.banner {
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+.mobile{
+  display: none;
+  width: 100%;
+}
+/* Media query for screens with a maximum width of 767px (adjust as needed) */
+@media screen and (max-width: 767px) {
+  /* New styles for smaller screens (e.g., mobile) */
+  .mobile{
+    display: block;
+  }
+  .desktop{
+    display: none;
+  }
+}
+
+  

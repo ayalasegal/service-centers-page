@@ -1,0 +1,53 @@
+.service-center-card{
+    width: 50%;
+    margin-left: 25%;
+    text-align: right;
+    justify-content: right;
+}
+
+.activity-buttons-container {
+    justify-content: flex-end; /* Aligns the buttons to the right */
+  }   
+  .card-header {
+    text-align: right;
+    font-size: 2em; /* 2 times the default font size */
+    font-weight: bold;
+  }
+  
+  .card-address {
+    text-align: right;
+    margin-top: 0.5em; /* 0.5 times the default margin top */
+  }
+  
+  .card-sub-title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 1em;
+  }
+  
+  .sub-title-text {
+    margin-right: 0.5em; /* 0.5 times the default margin right */
+  }
+  
+  .additional-text {
+    text-align: right;
+    margin-right: 1.7em;
+  }
+  ::ng-deep .activity-button-disabled .p-button.p-button-outlined:not(:disabled):hover {
+    background-color: transparent !important;
+    color: black !important;
+    border: 1px solid #2ED5C4 !important;
+  }
+  ::ng-deep .activity-button-disabled .p-button.p-button-outlined:not(:disabled):active {
+    background-color: transparent !important;
+    color: black !important;
+    border: 1px solid #2ED5C4 !important;
+  }
+  @media screen and (max-width: 767px) {
+    .service-center-card{
+      text-align: center;
+      width: 90%;
+      margin: 5%;
+    }
+  }

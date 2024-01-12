@@ -1,0 +1,9 @@
+<div style="width: 100%;display: flex;justify-content: center;margin-top: 5%;">
+<img *ngIf="selection.status == statusTypes.Complete && serviceCenters.length == 0 " src="../../../assets/images/Frame 26085612.png"/>
+<img *ngIf="selection.status == statusTypes.Incomplete " src="../../../assets/images/Group 26086176.png"/>
+<div *ngIf="selection.status == statusTypes.Complete && serviceCenters.length >0  "   style="width: 100%; height: 100%; flex-direction: column; justify-content: flex-start; align-items: right; gap: 23px; display: inline-flex">
+    <service-center *ngFor="let center of serviceCenters" [center]="center" [activities]="selection.selection!.activities"></service-center>
+</div>
+</div>
+
+

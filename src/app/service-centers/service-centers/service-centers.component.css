@@ -1,0 +1,15 @@
+.card {
+    width: 50%;
+    margin-top: 25%;
+    margin-left: 25%;
+    text-align: center;
+  }
+  @media screen and (max-width: 767px) {
+
+    .card{
+      text-align: center;
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 84%;
+    }
+  }

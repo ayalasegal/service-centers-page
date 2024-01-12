@@ -1,0 +1,24 @@
+ <div class="card-header">
+  ?באיזו עיר
+</div> 
+<span class="p-float-label">
+<p-autoComplete
+  #autoCompleteField
+  [(ngModel)]="selectedItem"
+  [suggestions]="suggestions"
+  (completeMethod)="search($event)"
+  [field]="'Name'" 
+  (onSelect)="onSelectCity()"
+  (onClear)="onClearCity()"
+  (onUnselect)="onClearCity()"
+  (onFocus)="openAutocompleteDropdown()"
+  [ngClass]="cityNotFound?'ng-invalid ng-dirty':''"
+  [style]="{ 'border-color': cityNotFound ? 'red' : '','text-align': 'right' }"
+  [style]="{'width':'100%'}" [inputStyle]="{'width':'100%'}"
+>
+</p-autoComplete>
+<label for="autocomplete">עיר</label>
+</span>
+<div *ngIf="cityNotFound" class="error-message">
+  ?לא נמצאה העיר שהזנת. שננסה שוב
+</div>

@@ -1,0 +1,9 @@
+<div class="card-header">
+?באיזה נושא</div> 
+  <div class="activity-buttons-container">
+    <div *ngFor="let activity of activities" class="activity-button" (click)="toggleActivity(activity)">
+      <p-button [rounded]=" true" [outlined]="isActivitySelected(activity) ? false : true"  [class.stressed]="isActivitySelected(activity)">
+        {{ activity.Name }}
+      </p-button>
+    </div>
+  </div>

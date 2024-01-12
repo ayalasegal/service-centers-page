@@ -1,0 +1,50 @@
+  <div class="service-center-card">
+    <p-card>
+      <div class="card-header">
+      {{center.Name}}
+      </div>
+      <div class="card-address">
+     {{center.Address.Street +" "+ center.Address.HouseNumber + " " +center.Address.City.Name}}
+      </div>
+      <div class="card-sub-title">
+        <div class="sub-title-text ">
+          שעות פתיחה
+        </div>
+        <div class="card-icon">
+          <img src="../../../assets/images/clarity_clock-line.svg" alt="Clock Icon">
+        </div>
+      </div>
+      <div class="additional-text">
+        {{getDynamicSchedule(center.ReceptionHours)}}
+        <div>שישי 08:30-13:00</div>
+        <div>שישי 08:30-13:00</div>
+        <!-- <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word">שעות פעילות טכנאי: הפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי. *מכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת<br/>התקנה ותחזוקה לדיבורית*</div> -->
+        <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word" [innerHTML]="convertToHTML(center.ReceptionHours.Note)"></div>
+
+      </div>
+      <div class="card-sub-title">
+        <div class="sub-title-text">
+שירותים בסניף        </div>
+        <div class="">
+          <img src="../../../assets/images/Vector.svg" alt="Clock Icon">
+        </div>
+      </div>
+      <div class="additional-text">
+
+        
+
+        <div class="activity-buttons-container">
+          <div *ngFor="let activity of normalizeActivities(center.ActivityList.Activity)" class="activity-button" >
+            <p-button 
+              [rounded]="true"
+              [outlined]="!isActivity(activity)"
+              [ngClass]="isActivity(activity)? '':'activity-button-disabled'"
+            >
+            {{activity.Name}}
+            </p-button>
+        <!-- <p-button  [rounded]=" true" [outlined]="false" [class.stressed]="false" [class.hovered]="false" class="activity-button-disabled">הצטרפות לפרטנר</p-button>
+          <p-button [rounded]=" true" [outlined]="true" [class.stressed]="false"  [class.hovered]="false" class="activity-button-disabled">פרטנר Express</p-button> -->
+        </div>
+      </div>
+  </div>
+</p-card>

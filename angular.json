@@ -31,13 +31,19 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/fonts"
+
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "src/assets/theme.css",
+              "node_modules/primeicons/primeicons.css"
             ],
-            "scripts": [],
+            
+            "scripts": [
+            ],            
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -96,13 +102,20 @@
             "tsConfig": "tsconfig.spec.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/fonts"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "src/assets/theme.css",
+              "node_modules/primeicons/primeicons.css"
             ],
-            "scripts": []
-          }
+            
+            "scripts": [
+            ]
+            
+        }
         }
       }
     }
