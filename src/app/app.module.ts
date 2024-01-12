@@ -10,6 +10,8 @@ import { ServiceCentersModule } from './service-centers/service-centers.module';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { HTTP_INTERCEPTORS } from '@angular/common/http';
+import { CacheInterceptor } from './services/cache.interceptor';
 
 @NgModule({
   declarations: [
@@ -29,6 +31,11 @@ import { FooterComponent } from './footer/footer.component';
   ],
   providers: [
     provideClientHydration(),
+    {
+      provide: HTTP_INTERCEPTORS,
+      useClass: CacheInterceptor,
+      multi: true,
+    },
   ],
   bootstrap: [AppComponent]
 })
