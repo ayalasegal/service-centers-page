@@ -1,0 +1,6348 @@
+[
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6600,
+          "Name": "חולון",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 7,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%92%D7%95%D7%9C%D7%93%D7%94+%D7%9E%D7%90%D7%99%D7%A8+7,+%D7%97%D7%95%D7%9C%D7%95%D7%9F%E2%80%AD/@32.0124866,34.779369,17z/data=!3m1!4b1!4m2!3m1!1s0x1502b4a1f7627243:0x9590412bd6dd89",
+        "MapX": 32.012524,
+        "MapY": 34.77943,
+        "Note": "קומת כניסה, מול קסטרו",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "גולדה מאיר"
+      },
+      "BranchCode": "G10",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 94,
+      "IsDealer": false,
+      "Name": "דוכן מכירה חולון",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8600,
+          "Name": "רמת גן",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 301,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%90%D7%91%D7%90+%D7%94%D7%9C%D7%9C+%D7%A1%D7%99%D7%9C%D7%91%D7%A8+301,+%D7%A8%D7%9E%D7%AA+%D7%92%D7%9F%E2%80%AD/data=!4m2!3m1!1s0x151d49865ed01ac3:0x916a5462b5940177?sa=X&amp;ei=Dih2VPr2CcHjywPYo4KICw&amp;ved=0CHMQ8gEwCg",
+        "MapX": 32.090947,
+        "MapY": 34.811774,
+        "Note": "קומה 1,צמוד לארומה.שער איילון&#xD;\nההפקדות לתיקון מתבצעות עד השעה 20:00",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך אבא הלל סילבר"
+      },
+      "BranchCode": "G40",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 98,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה קניון איילון",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%A8%D7%9A+%D7%90%D7%92%D7%95%D7%93%D7%AA+%D7%A1%D7%A4%D7%95%D7%A8%D7%98+%D7%91%D7%99%D7%AA%22%D7%A8+1,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%E2%80%AD/data=!4m2!3m1!1s0x1502d78e7fe6aa65:0xaedf70d1090dcf78?sa=X&amp;ei=iyh2VNK_MIXNygOfzIGwAg&amp;ved=0CH0Q8gEwCg",
+        "MapX": 31.751806,
+        "MapY": 35.187227,
+        "Note": "קומה 1 ליד חנויות האופנה זארה ורנואר&#xD;\n&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אגודת ספורט בית\"ר"
+      },
+      "BranchCode": "G50",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 99,
+      "IsDealer": false,
+      "Name": "דוכן מכירה קניון מלחה ירושלים",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nקומה 1 ליד חנויות האופנה רנואר וקסטרו&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת ציוד נגישות",
+            "Name": "מכירת ציוד נגישות",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 5000,
+          "Name": "תל אביב יפו",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 2,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%A9%D7%9C%D7%95%D7%A9%D7%94+2,+%D7%AA%D7%9C+%D7%90%D7%91%D7%99%D7%91+%D7%99%D7%A4%D7%95%E2%80%AD/data=!4m2!3m1!1s0x151d4b7112326f13:0xb2d5681535ec6fb6?sa=X&amp;ei=uyh2VOqlEeW1ygPX-YCwBw&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.06187,
+        "MapY": 34.78856,
+        "Note": "צמוד למדנס, מול דינמומטר בדיקת רכבים",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "השלושה"
+      },
+      "BranchCode": "K10",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניה במתחם",
+        "SERVICE_MAN": 1,
+        "WC": "יש במרכז"
+      },
+      "ID": 1213,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה יד- אליהו",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים במקום partner express :&#xD;\nימי חול: 09:00-18:00&#xD;\nשישי : 09:00-13:00&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7900,
+          "Name": "פתח תקווה",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 72,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%A8%D7%9A+%D7%96%D7%90%D7%91+%D7%96'%D7%91%D7%95%D7%98%D7%99%D7%A0%D7%A1%D7%A7%D7%99+96,+%D7%A4%D7%AA%D7%97+%D7%AA%D7%A7%D7%95%D7%95%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151d49fc18fecae5:0x129fbd254f722701?sa=X&amp;ei=JSl2VIGaC4fCywPyuoGwBA&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.0935199304,
+        "MapY": 34.8653717993,
+        "Note": "קניון עופר &#xD;\nבקניון הגדול אבנת, קומת חנויות אמצעית מול גולף",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "ז'בוטינסקי"
+      },
+      "BranchCode": "L21",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "ראשית קומה אמצעית של",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 1252,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה פתח תקווה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-21:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nשעות פעילות מעבדה :א'-ה' - 10:00-18:00&#xD;\nו' - 09:00 - 13:00&#xD;\nשבת - סגור &#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 1200,
+          "Name": "מודיעין",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 2,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%9C%D7%91+%D7%94%D7%A2%D7%99%D7%A8+2,+%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F+%D7%9E%D7%9B%D7%91%D7%99%D7%9D+%D7%A8%D7%A2%D7%95%D7%AA%E2%80%AD/data=!4m2!3m1!1s0x1502cdc7927048a1:0xc9d808be1d968030?sa=X&amp;ei=PCl2VLP6D4HmywOOv4LQCw&amp;ved=0CHEQ8gEwCg",
+        "MapX": 31.899944,
+        "MapY": 35.007663,
+        "Note": "קניון מודיעין, ליד רולדין&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "לב העיר"
+      },
+      "BranchCode": "L22",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "קומה 2 יש מעליות",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 1272,
+      "IsDealer": false,
+      "Name": "Partner store מודיעין",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;\nטכנאי פרטנר אקספרס נמצא בימי חול בין השעות 10:00 - 18:00&#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים&#xD;\n&#xD;\nמעבדת התיקונים תהיה סגורה&#xD;\nמתאריך ה -  11.10.22 יום ג' - עד תאריך ה - 13.10.22 יום ה' &#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת ציוד נגישות",
+            "Name": "מכירת ציוד נגישות",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 469,
+          "Name": "קרית עקרון",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps?es_sm=122&amp;q=%D7%91%D7%95%D7%A1%D7%99+%D7%A1%D7%A0%D7%98+%D7%92%27%D7%95%D7%A8%D7%92%27+9+%D7%A7%D7%A8%D7%99%D7%AA+%D7%A2%D7%A7%D7%A8%D7%95%D7%9F&amp;bav=on.2,or.&amp;bvm=bv.80642063,d.bGQ&amp;biw=1440&amp;bih=799&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ei=WCl2VPWtFMT5yQOKg4KoBQ&amp;ved=0CAYQ_AUoAQ",
+        "MapX": 31.864743,
+        "MapY": 34.816344,
+        "Note": "מול ארומה בכניסה למתחם בילו סנטר&#xD;\nההפקדות לתיקון מתבצעות עד השעה 20:00",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "מתחם בילו סנטר"
+      },
+      "BranchCode": "L30",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניית רחוב",
+        "SERVICE_MAN": 1,
+        "WC": "יש במרכז"
+      },
+      "ID": 1292,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה בילו סנטר",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים partner express :&#xD;\nימי חול: 10:00-18:00&#xD;\nשישי : 09:00-13:00&#xD;\n&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 26,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%92%D7%A0%D7%A8%D7%9C+%D7%A4%D7%99%D7%99%D7%A8+%D7%A7%D7%A0%D7%99%D7%92+26,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%E2%80%AD/data=!4m2!3m1!1s0x1502d7e1cf00772d:0xe0a8d3c1aafea755?sa=X&amp;ei=bil2VMe3M-LFygOBx4LgCA&amp;ved=0CB0Q8gEwAA",
+        "MapX": 31.753514,
+        "MapY": 35.213746,
+        "Note": "המרכז נמצא בקניון הדר. קומה שניה במדרגות הנעות ליד ללין ווופל בר&#xD;\nקיימת גישה לנכים וחניית נכים.&#xD;\nההפקדות לתיקון מתבצעות עד השעה 20:00",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "גנרל קניג פייר"
+      },
+      "BranchCode": "L23",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 2 יש מעליות",
+        "HARD_HEARING": 1,
+        "LABEL": 1,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 1313,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה תלפיות ירושלים",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nשעות פעילות מעבדה :א'-ה' - 09:30-18:30&#xD;\nו' - 09:00 - 13:00&#xD;\nשבת - סגור &#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 70,
+          "Name": "אשדוד",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 44,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%96'%D7%91%D7%95%D7%98%D7%99%D7%A0%D7%A1%D7%A7%D7%99+44,+%D7%90%D7%A9%D7%93%D7%95%D7%93%E2%80%AD/data=!4m2!3m1!1s0x1502a31318c42b11:0x1f8565e48a3b78a1?sa=X&amp;ei=hSl2VJyTK8H7ywOUlYGQAQ&amp;ved=0CB0Q8gEwAA",
+        "MapX": 31.809354,
+        "MapY": 34.655629,
+        "Note": "ליד חממה",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "ז`בוטינסקי"
+      },
+      "BranchCode": "L31",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 1,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש במרכז"
+      },
+      "ID": 1314,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה סטאר אשדוד",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים partner express :&#xD;\nימי חול: 10:00-18:00&#xD;\nשישי : 09:00-13:00&#xD;\n&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת ציוד נגישות",
+            "Name": "מכירת ציוד נגישות",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 4000,
+          "Name": "חיפה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 9000,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%97%D7%A8%D7%95%D7%A9%D7%AA,+%D7%97%D7%99%D7%A4%D7%94%E2%80%AD/@32.806112,35.055708,17z/data=!3m1!4b1!4m2!3m1!1s0x151db0ba486d7891:0xfa54b994eecbca6d",
+        "MapX": 32.807024,
+        "MapY": 35.054734,
+        "Note": "ממוקם ליד הסופר פארם&#xD;\nקיימת גישה לנכים&#xD;\nהמרכז נמצא ברח החרושת במתחם קניות חוצות המפרץ (צומת וולקן).&#xD;\nמתחם אאוטלט - צמוד לטיב טעם וACE",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "החרושת"
+      },
+      "BranchCode": "K20",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": ""
+      },
+      "ID": 1332,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה חוצות המפרץ",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים במקום partner express :&#xD;\nימי חול: 10:00-18:00&#xD;\nשישי - 09:00 - 13:00&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 4000,
+          "Name": "חיפה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 4,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%A8%D7%9A+%D7%9E%D7%A9%D7%94+%D7%A4%D7%9C%D7%99%D7%9E%D7%9F+4,+%D7%97%D7%99%D7%A4%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151dbb69b993cee1:0x3294a6bcadfe695f?sa=X&amp;ei=5Cl2VNaiNsnmyQO05IGADA&amp;ved=0CG4Q8gEwCg",
+        "MapX": 32.78993,
+        "MapY": 34.96568,
+        "Note": "ליד אורבניקה / גרג &#xD;\nההפקדות לתיקון מתבצעות עד השעה 20:00&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך משה פלימן"
+      },
+      "BranchCode": "L10",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 2 יש מעליות",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 1432,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה מרכז החוף חיפה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-20:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מעבדה :א'-ה' - 10:00-18:00&#xD;\nו' - 09:00 - 13:00&#xD;\nשבת - סגור &#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-20:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-20:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-20:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-20:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8300,
+          "Name": "ראשון לציון",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 21,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%95%D7%93+%D7%A1%D7%97%D7%A8%D7%95%D7%91+21,+%D7%A8%D7%90%D7%A9%D7%95%D7%9F+%D7%9C%D7%A6%D7%99%D7%95%D7%9F%E2%80%AD/data=!4m2!3m1!1s0x1502b47f613dd547:0xdded7f008ac22b09?sa=X&amp;ei=ECp2VNL_H4OGzAPW9YH4DQ&amp;ved=0CB0Q8gEwAA",
+        "MapX": 31.990144,
+        "MapY": 34.774338,
+        "Note": "ליד בורגרים בקניון הזהב ליד המשביר לצרכן&#xD;\nעד שעה 18:00 שירות והפקדות לתיקון לאחר מכן רק מכירה&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שדרות סחרוב"
+      },
+      "BranchCode": "L25",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 2 יש מעליות",
+        "HARD_HEARING": 1,
+        "LABEL": 1,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 1472,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה ראשון לציון קניון הזהב",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-20:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מעבדה :א'-ה' - 10:00-18:00&#xD;\nו' - 09:00 - 13:00&#xD;\nשבת - סגור &#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6700,
+          "Name": "טבריה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%99%D7%94%D7%95%D7%93%D7%94+%D7%94%D7%9C%D7%95%D7%99,+%D7%98%D7%91%D7%A8%D7%99%D7%94%E2%80%AD/@32.7887659,35.5338213,17z/data=!3m1!4b1!4m2!3m1!1s0x151c3e4e4919c215:0x70841e0b55dc693f",
+        "MapX": 32.7906717239,
+        "MapY": 35.5337084434,
+        "Note": "צמוד לאדידס",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "יהודה הלוי"
+      },
+      "BranchCode": "L14",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 1513,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה טבריה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:30",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת ציוד נגישות",
+            "Name": "מכירת ציוד נגישות",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9000,
+          "Name": "באר שבע",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 21,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%A8%D7%9A+%D7%97%D7%91%D7%A8%D7%95%D7%9F+21,+%D7%91%D7%90%D7%A8+%D7%A9%D7%91%D7%A2%E2%80%AD/data=!4m2!3m1!1s0x15026648539961b7:0x6a1eb86f06d71a6b?sa=X&amp;ei=fip2VPqSIofCywPyuoGwBA&amp;ved=0CB0Q8gEwAA",
+        "MapX": 31.244206,
+        "MapY": 34.809809,
+        "Note": "המרכז נמצא בסמוך למסעדת BBB",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך חברון"
+      },
+      "BranchCode": "L29",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש במרכז"
+      },
+      "ID": 1632,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה ביג באר שבע",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "המרכז נמצא בסמוך למסעדת BBB&#xD;\n&#xD;\nשעות פעילות מעבדה :א'-ה' - 10:00-18:00&#xD;\nו' - 09:00 - 13:00&#xD;\nשבת - סגור &#xD;\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9100,
+          "Name": "נהריה",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A8%D7%92%D7%91%D7%94%E2%80%AD/@32.9763617,35.0998485,16z/data=!3m1!4b1!4m2!3m1!1s0x151dcec400949a5f:0x78260bb79591700c",
+        "MapX": 32.975629,
+        "MapY": 35.094424,
+        "Note": "מתחם פאוור סנטר \"ביג\" בכניסה למושב רגבה, דרומית לנהריה, כביש נהריה עכו, ביג רגבה ליד צומת ספרים&#xD;\nקיימת גישה לנכים",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "מתחם פאוור סנטר \"ביג\" בכניסה למושב רגב"
+      },
+      "BranchCode": "L11",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש במתחם"
+      },
+      "ID": 1652,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה נהריה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים partner express :&#xD;\nימי חול: 10:00-18:00&#xD;\nשישי : 09:00-13:00&#xD;\n&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 1139,
+          "Name": "כרמיאל",
+          "Region": "צפון"
+        },
+        "HouseNumber": 2,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%97%D7%A8%D7%95%D7%A9%D7%AA+48,+%D7%9B%D7%A8%D7%9E%D7%99%D7%90%D7%9C%E2%80%AD/data=!4m2!3m1!1s0x151c31702451cbc9:0xe20c680edc41e3cd?sa=X&amp;ei=-it2VI-3EsGGywPZnoCICw&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.927509,
+        "MapY": 35.32084,
+        "Note": "מתחם BIG סמוך לביגה",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "מעלה כמון"
+      },
+      "BranchCode": "L12",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניה במתחם",
+        "SERVICE_MAN": 1,
+        "WC": "יש במרכז"
+      },
+      "ID": 1653,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה כרמיאל",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שרות תיקונים partner express :&#xD;\nימי חול: 10:00-18:00&#xD;\nשישי : 09:00-13:00&#xD;\n&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7300,
+          "Name": "נצרת",
+          "Region": "צפון"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%AA%D7%95%D7%A4%D7%99%D7%A7+%D7%96%D7%99%D7%90%D7%93+15,+%D7%A0%D7%A6%D7%A8%D7%AA%E2%80%AD/data=!4m2!3m1!1s0x151c4dd483e0aa01:0x63a683e8a181dc6a?sa=X&amp;ei=RSx2VOPmN4i_ygOk7gI&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.696291,
+        "MapY": 35.301093,
+        "Note": "מתחם ביג פאשן - ליד פקטורי 54 ומול גולדה .&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "ביג פאשן"
+      },
+      "BranchCode": "L15",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 1 יש מעליות",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 2134,
+      "IsDealer": false,
+      "Name": "מרכז שרות ומכירה נצרת",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-20:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח פנה ל- 054*",
+            "Name": "שירות ללקוח פנה ל- 054*",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2600,
+          "Name": "אילת",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%92%D7%9F+%D7%91%D7%A0%D7%99%D7%9E%D7%99%D7%9F,+%D7%90%D7%99%D7%9C%D7%AA%E2%80%AD/data=!4m2!3m1!1s0x150071f869eaa99b:0xfe838d7d0b14fbb6?sa=X&amp;ei=Vyx2VO3gKebRygPd4ICwBA&amp;ved=0CB0Q8gEwAA",
+        "MapX": 29.550049,
+        "MapY": 34.953969,
+        "Note": "קניון מול הים ליד סופר פארם.&#xD;\nהטכנאי נמצא בימים א' - ה' מ-10:00-18:00&#xD;\nההפקדות לתיקון מתבצעות עד השעה 20:00",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "הפלמ\"ח"
+      },
+      "BranchCode": "L28",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניה במתחם",
+        "SERVICE_MAN": 1,
+        "WC": "אין"
+      },
+      "ID": 2192,
+      "IsDealer": false,
+      "Name": "דוכן מכירה אילת",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-15:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-23:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\n&#xD;\nהחזרת ציוד ניתן לבצע רק בדוכן *מול הים בלבד*",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-23:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-23:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-23:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-23:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6900,
+          "Name": "כפר סבא",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 207,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%95%D7%99%D7%A6%D7%9E%D7%9F+207,+%D7%9B%D7%A4%D7%A8+%D7%A1%D7%91%D7%90%E2%80%AD/data=!4m2!3m1!1s0x151d39bdbc2df1b9:0x5243b662ad15729b?sa=X&amp;ei=JS12VJinDefIyAPfioD4DA&amp;ved=0CGYQ8gEwCg",
+        "MapX": 32.172329,
+        "MapY": 34.928427,
+        "Note": "ליד מנגו&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "ויצמן"
+      },
+      "BranchCode": "L33",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 3034,
+      "IsDealer": false,
+      "Name": "כפר סבא G מרכז שירות ומכירה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-20:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00\n\nשעות פעילות מעבדה :א'-ה' - 09:00-18:00\nשישי - שבת - המעבדה סגורה\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ומכירה לעובדי הבורסה",
+            "Name": "הצטרפות לרשת partner לעובדי הבורסה",
+            "Order": 9,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8600,
+          "Name": "רמת גן",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 21,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%91%D7%A6%D7%9C%D7%90%D7%9C+54,+%D7%A8%D7%9E%D7%AA+%D7%92%D7%9F%E2%80%AD/data=!4m2!3m1!1s0x151d4bc0d3bdb9b9:0xca07b0a57b872088?sa=X&amp;ei=ri52VJ3sK4rWaobrgJAM&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.084201,
+        "MapY": 34.801909,
+        "Note": "בבניין יהלום (הכניסה הינה לחברי בורסה בלבד- בעלי תג בורסה)",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "תובל"
+      },
+      "BranchCode": "L40",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חניה במתחם",
+        "SERVICE_MAN": 1,
+        "WC": "יש בבניין"
+      },
+      "ID": 8401,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה בורסה (לקוחות בורסה בלבד)",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-17:30",
+        "MondaySecondShift": "",
+        "Note": "תיקונים partner express :&#xD;\nימי חול: 09:00-17:30&#xD;\n&#xD;\nדגשים לשעות פעילות טכנאי : &#xD;\nהפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי &#xD;\nמכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-17:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-17:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-17:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-17:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 246,
+          "Name": "נתיבות",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps?q=%D7%A9%D7%93%60+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D+12+%D7%A0%D7%AA%D7%99%D7%91%D7%95%D7%AA&amp;es_sm=122&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ei=5C52VM3tDdLlaISFgbgF&amp;ved=0CAgQ_AUoAQ",
+        "MapX": 31.422811,
+        "MapY": 34.600149,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "רבי עקיבא"
+      },
+      "BranchCode": "H04M80",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 10465,
+      "IsDealer": true,
+      "Name": "מרכז סיגרון נתיבות",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2710,
+          "Name": "אום אל פחם",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "http://maps.google.com/maps?q=%D7%9E%D7%A8%D7%9B%D7%96%D7%99+%D7%A9%D7%99%D7%A8%D7%95%D7%AA+orange&amp;hl=iw&amp;cd=21&amp;ei=40hxTLfYO8y9sAaIyr2dCw&amp;sig2=ulHZLnGk6v3d0ZRLrXixFw&amp;ie=UTF8&amp;view=map&amp;f=d&amp;daddr=%D7%90%D7%95%D7%9D+%D7%90%D7%9C-%D7%A4%D7%97%D7%9D,+30010,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;geocode=CWBheG-ocPbpFQYs8AEd81IYAiGAQN0gCYlFFA&amp;ved=0CBYQ_wY&amp;z=16",
+        "MapX": "",
+        "MapY": "",
+        "Note": "מתחם SEVEN בקומת הקרקע&#xD;\nסמוך לחנות אפריל,ומשחקיית בבילון",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "צומת אום אל פאחם כביש 65"
+      },
+      "BranchCode": "L47",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 0",
+        "HARD_HEARING": 1,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 12230,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה אום אל פאחם",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "14:00-21:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-21:30",
+        "MondaySecondShift": "",
+        "Note": "המרכז ממוקם במתחם SEVEN קומת הקרקע&#xD;\n&#xD;",
+        "SaturdayFirstShift": "10:00-21:30",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          },
+          {
+            "ID": "החזרת ציוד TV ואינטרנט",
+            "Name": "החזרת ציוד TV ואינטרנט",
+            "Order": 66,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7500,
+          "Name": "סכנין",
+          "Region": "צפון"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A7%D7%A0%D7%99%D7%95%D7%9F+%D7%A1%D7%9B%D7%A0%D7%99%D7%9F+%D7%9E%D7%95%D7%9C%E2%80%AD/@32.860917,35.309707,15z/data=!4m2!3m1!1s0x0:0xfac02d0bf2f6a654",
+        "MapX": 32.861034,
+        "MapY": 35.310107,
+        "Note": "כביש ראשי קניון סכנין החדש,כניסה מזרחית&#xD;\nקניון סחנין מול ליד סופר פארם",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "רחוב ראשי סכנין"
+      },
+      "BranchCode": "L50",
+      "Handicap": {
+        "ACCESS_POINT": 1,
+        "ACCESS_WAY": "קומה 1 יש מעליות",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 1,
+        "WC": "יש בקניון"
+      },
+      "ID": 12410,
+      "IsDealer": false,
+      "Name": "מרכז שירות ומכירה סחנין (קניון סחנין)",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מעבדה:\nא' עד ה' - 10:00-18:00\nו' - סגור\nשבת - 10:00-17:00\nעל מנת שמכשיר יתוקן באותו יום, יש להפקיד את המכשיר לתיקון שעתיים לפני סגירת מעבדת התיקונים",
+        "SaturdayFirstShift": "10:00-17:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 480,
+          "Name": "בית ג'ן",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A1%D7%9C%D7%95%D7%9C%D7%A8+%D7%A1%D7%A0%D7%98%D7%A8+%D7%91%D7%99%D7%AA+%D7%92%D7%90%D7%9F%E2%80%AD/@32.965655,35.381268,17z/data=!3m1!4b1!4m2!3m1!1s0x151c2ff226ca2d11:0x6655333fd8e876cd",
+        "MapX": 32.965354,
+        "MapY": 35.382091,
+        "Note": "ת.ד 375&#xD;\nליד המועצה המקומית",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H01D07",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 13635,
+      "IsDealer": true,
+      "Name": "משווק סלולר סנטר",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:30-21:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 634,
+          "Name": "כפר קאסם",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/search/%D7%A2%D7%95%D7%9C%D7%9D+%D7%94%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA+%D7%9B%D7%A4%D7%A8+%D7%A7%D7%90%D7%A1%D7%9D%E2%80%AD/@32.1173685,34.9684525,12z/data=!3m1!4b1",
+        "MapX": 32.117154,
+        "MapY": 34.979154,
+        "Note": "רחוב סולטני - מול תחנת דלק גל",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "א- סולטאני"
+      },
+      "BranchCode": "H01D06",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 13636,
+      "IsDealer": true,
+      "Name": "משווק עולם התקשורת קאסם",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "12:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "12:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "12:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "12:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "12:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 494,
+          "Name": "דאלית אל כרמל",
+          "Region": "צפון"
+        },
+        "HouseNumber": 50,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%9B%D7%A8%D7%9E%D7%9C,+%D7%99%D7%95%D7%A7%D7%A0%D7%A2%D7%9D+%D7%A2%D7%99%D7%9C%D7%99%D7%AA%E2%80%AD/@32.657867,35.099493,17z/data=!3m1!4b1!4m2!3m1!1s0x151daec686e2cf2d:0x3bef6ff9f9bd7ced",
+        "MapX": 32.693893,
+        "MapY": 35.051691,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "הכרמל"
+      },
+      "BranchCode": "H01M12",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 13700,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר הכרמל",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 654,
+          "Name": "כפר קרע",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A1%D7%A0%D7%98%D7%A8+%D7%A0%D7%90%D7%A1+%D7%9B%D7%A4%D7%A8+%D7%A7%D7%A8%D7%A2%E2%80%AD/@32.505518,35.054251,17z/data=!3m1!4b1!4m2!3m1!1s0x151d06096c3d1049:0x4f396e3f619be8b4",
+        "MapX": 32.505578,
+        "MapY": 35.055715,
+        "Note": "רחוב ראשי כפר קרע",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H01D04",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 13702,
+      "IsDealer": true,
+      "Name": "מרכז סנטר נאס",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "10:00-17:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9500,
+          "Name": "קרית ביאליק",
+          "Region": "צפון"
+        },
+        "HouseNumber": 44,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%A4%D7%9C%D7%9E%22%D7%97+44,+%D7%A7%D7%A8%D7%99%D7%99%D7%AA+%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7%E2%80%AD/data=!4m2!3m1!1s0x151db6fbec72a215:0x93a51eeac0b5ecb0?sa=X&amp;ei=rTF2VK-gMczTaJyvgsAP&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.841874,
+        "MapY": 35.089412,
+        "Note": "שער עופר, בשדרה החדשה בסמוך למשביר  לצרכן ולדואר.",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "פלמ\"ח"
+      },
+      "BranchCode": "G29",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13796,
+      "IsDealer": false,
+      "Name": "דוכן מכירה קריון שער 6",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8400,
+          "Name": "רחובות",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 2,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%91%D7%99%D7%9C%22%D7%95+2,+%D7%A8%D7%97%D7%95%D7%91%D7%95%D7%AA%E2%80%AD/data=!4m2!3m1!1s0x1502b7103e06cc89:0xa4e0db1ebf5d466f?sa=X&amp;ei=vjF2VJObE9jxatzfgeAB&amp;ved=0CB0Q8gEwAA",
+        "MapX": 31.89404,
+        "MapY": 34.80717,
+        "Note": "בכניסה המזרחית סמוך למגה ספורט&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "ביל\"ו"
+      },
+      "BranchCode": "G65",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13797,
+      "IsDealer": false,
+      "Name": "דוכן מכירה קניון רחובות",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 5000,
+          "Name": "תל אביב יפו",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 132,
+        "Location": "",
+        "MapURL": "https://maps.google.com/maps?q=%D7%93%D7%A8%D7%9A+%D7%91%D7%92%D7%99%D7%9F+132,+%D7%AA%D7%9C+%D7%90%D7%91%D7%99%D7%91,+%D7%99%D7%A9%D7%A8%D7%90%D7%9C&amp;hl=en&amp;ie=UTF8&amp;sll=32.17732,34.904981&amp;sspn=0.006348,0.011362&amp;oq=%D7%A4%D7%AA%D7%97+%D7%AA%D7%A7%D7%95%D7%95%D7%94+132,+%D7%AA%D7%9C+%D7%90%D7%91%D7%99%D7%91&amp;hnear=Derech+Menachem+Begin+132,+Tel+Aviv-Yafo,+Israel&amp;t=m&amp;z=17",
+        "MapX": 32.074362,
+        "MapY": 34.792126,
+        "Note": "ליד רולדין &#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך בגין"
+      },
+      "BranchCode": "G44",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13798,
+      "IsDealer": false,
+      "Name": "דוכן מכירה השלום עזריאלי",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6400,
+          "Name": "הרצליה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 8,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A9%D7%93%D7%A8%D7%95%D7%AA+%D7%A9%D7%91%D7%A2%D7%AA+%D7%94%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D+8,+%D7%94%D7%A8%D7%A6%D7%9C%D7%99%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151d48648101c4fd:0x1b58516828b98282?sa=X&amp;ei=0jF2VKn6LYHbaoT4gYAL&amp;ved=0CHIQ8gEwCg",
+        "MapX": 32.165316,
+        "MapY": 34.823867,
+        "Note": "סמוך לדוכן מפעל הפיס וארקפה&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שבעת הכוכבים"
+      },
+      "BranchCode": "G27",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13799,
+      "IsDealer": false,
+      "Name": "דוכן מכירה שבעת הכוכבים וארנה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7400,
+          "Name": "נתניה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 60,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%94%D7%A8%D7%A6%D7%9C+60,+%D7%A0%D7%AA%D7%A0%D7%99%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151d6aaada99849d:0x2119cec7913ca278?sa=X&amp;ei=6DF2VLzTLMPVarThgKgM&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.327007,
+        "MapY": 34.861682,
+        "Note": "קומת הכניסה, מול הסופר פארם, שער דרומי של הקניון (כניסה לארומה)&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "הרצל"
+      },
+      "BranchCode": "G35",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13803,
+      "IsDealer": false,
+      "Name": "דוכן מכירה השרון נתניה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 4000,
+          "Name": "חיפה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 54,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps?q=%D7%92%D7%95%D7%9C%D7%9F+%D7%A9%D7%9E%D7%97%D7%94+54+%D7%97%D7%99%D7%A4%D7%94&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ei=-TF2VJ6DNNLUasS6gugK&amp;ved=0CAgQ_AUoAQ",
+        "MapX": 32.790031,
+        "MapY": 35.008061,
+        "Note": "קומה 1 ליד סטימצקי / אירית רחמים/ פרש שופ",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "גולן שמחה"
+      },
+      "BranchCode": "G38",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13808,
+      "IsDealer": false,
+      "Name": "דוכן מכירה גרנד קניון חיפה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 4000,
+          "Name": "חיפה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 55,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A9%D7%93%D7%A8%D7%95%D7%AA+%D7%94%D7%94%D7%A1%D7%AA%D7%93%D7%A8%D7%95%D7%AA+55,+%D7%97%D7%99%D7%A4%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151dba78676c5391:0xaeff0e4503ade3a1?sa=X&amp;ei=ITJ2VODREszLaPeEgkg&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.7931686181,
+        "MapY": 35.0366201299,
+        "Note": "קניון סינמול חיפה סמוך לקפה גרג&#xD;\n&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שד ההסתדרות"
+      },
+      "BranchCode": "G33",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13811,
+      "IsDealer": false,
+      "Name": "דוכן מכירה לב המפרץ",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 5000,
+          "Name": "תל אביב יפו",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 50,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%93%D7%99%D7%96%D7%A0%D7%92%D7%95%D7%A3+50,+%D7%AA%D7%9C+%D7%90%D7%91%D7%99%D7%91+%D7%99%D7%A4%D7%95%E2%80%AD/data=!4m2!3m1!1s0x151d4b8061ac11ad:0xffbb1f57d88b4268?sa=X&amp;ei=UzJ2VPyKF8Tgau3IgMgJ&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.075628,
+        "MapY": 34.775373,
+        "Note": "סמוך לפוט לוקר, בניין A כניסה 3&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דיזנגוף"
+      },
+      "BranchCode": "G83",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13816,
+      "IsDealer": false,
+      "Name": "דוכן מכירה דיזנגוף סנטר",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "אין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6200,
+          "Name": "בת ים",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 92,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps?es_sm=122&amp;q=%D7%99%D7%95%D7%A1%D7%A4%D7%98%D7%9C+92+%D7%91%D7%AA+%D7%99%D7%9D&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ei=ZDJ2VIitDYjhaJG2grgP&amp;ved=0CAgQ_AUoAQ",
+        "MapX": 32.015437,
+        "MapY": 34.756103,
+        "Note": "ליד אופטיקה בליסימה וורדינון",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "יוספטל"
+      },
+      "BranchCode": "G16",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13818,
+      "IsDealer": false,
+      "Name": "דוכן מכירה בת ים",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:30-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6500,
+          "Name": "חדרה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 40,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%A9%D7%93%D7%A8%D7%95%D7%AA+%D7%A8%D7%95%D7%98%D7%A9%D7%99%D7%9C%D7%93+40,+%D7%97%D7%93%D7%A8%D7%94%E2%80%AD/data=!4m2!3m1!1s0x151d124448b6f855:0x7a882aa7c9d63add?sa=X&amp;ei=-TJ2VLXaG5TbapGmgKAK&amp;ved=0CB0Q8gEwAA",
+        "MapX": 32.437915,
+        "MapY": 34.922134,
+        "Note": "ליד gentleman",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שד רוטשילד"
+      },
+      "BranchCode": "G49",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 13851,
+      "IsDealer": false,
+      "Name": "דוכן מכירה לב חדרה",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 6000,
+          "Name": "באקה אל ע'רביה",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=iw&amp;geocode=&amp;q=orange+%D7%91%D7%90%D7%A7%D7%94+%D7%90%D7%9C+&amp;sll=32.418262,35.047739&amp;sspn=0.008115,0.013711&amp;ie=UTF8&amp;hq=orange+%D7%91%D7%90%D7%A7%D7%94+%D7%90%D7%9C&amp;hnear=&amp;ll=32.426739,35.040722&amp;spn=0.016228,0.027423&amp;z=15&amp;iwloc=A",
+        "MapX": 32.422586,
+        "MapY": 35.032699,
+        "Note": "ליד בנק הפועלים",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H01M13",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 13949,
+      "IsDealer": true,
+      "Name": "משווק קמר טלקום",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "דיבוריות",
+            "Name": "התקנה ותחזוקה לדיבורית",
+            "Order": 7,
+            "Type": ""
+          },
+          {
+            "ID": "מתקין דיבוריות למשאיות",
+            "Name": "מתקין דיבוריות למשאיות",
+            "Order": 10,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7900,
+          "Name": "פתח תקווה",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 3,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97+3,+%D7%A4%D7%AA%D7%97+%D7%AA%D7%A7%D7%95%D7%95%D7%94&amp;hl=en&amp;ie=UTF8&amp;sll=32.091016,34.856758&amp;sspn=0.006735,0.011362&amp;oq=%D7%94%D7%A9%D7%99%D7%9C%D7%95%D7%97+3,+&amp;hnear=HaShiloah+St+3,+Petah+Tikva&amp;t=m&amp;z=17",
+        "MapX": 32.091273,
+        "MapY": 34.85658,
+        "Note": "עולים בז'בוטינסקי ואם מגיעים מפ\"ת רמסור מס 3 שמאלה,ואם בגהה רמזור מס 3 שמאלה נכנסים לרחוב הסיבים וברמזור ה-1 ימינה -מבנה כתום גדול",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "השילוח"
+      },
+      "BranchCode": "H03N05",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14091,
+      "IsDealer": true,
+      "Name": "דיבוריות - קסם הסאונד פתח תקווה",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "קבלת משאיות בתיאום מראש",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "דיבוריות",
+            "Name": "התקנה ותחזוקה לדיבורית",
+            "Order": 7,
+            "Type": ""
+          },
+          {
+            "ID": "מתקין דיבוריות למשאיות",
+            "Name": "מתקין דיבוריות למשאיות",
+            "Order": 10,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 246,
+          "Name": "נתיבות",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 203,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%A1%D7%99%D7%92%D7%A8%D7%95%D7%9F+%D7%A0%D7%AA%D7%99%D7%91%D7%95%D7%AA&amp;hl=en&amp;ie=UTF8&amp;sll=32.091016,34.856758&amp;sspn=0.006735,0.011362&amp;hq=%D7%A1%D7%99%D7%92%D7%A8%D7%95%D7%9F&amp;hnear=Netivot&amp;t=m&amp;z=17&amp;iwloc=B",
+        "MapX": 31.418765,
+        "MapY": 34.597126,
+        "Note": "א.תעשיה נתיבות מול פרחי עזתא על כביש תחנת דלק פז             &#xD;\nאפשרות נוספת מכיוון אופקים כניסה דרומית שמאלה ימינה וימינה",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך סמילו יוסף"
+      },
+      "BranchCode": "H04N04",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14092,
+      "IsDealer": true,
+      "Name": "דיבוריות - סיגרון נתיבות",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "דיבוריות",
+            "Name": "התקנה ותחזוקה לדיבורית",
+            "Order": 7,
+            "Type": ""
+          },
+          {
+            "ID": "מתקין דיבוריות למשאיות",
+            "Name": "מתקין דיבוריות למשאיות",
+            "Order": 10,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9100,
+          "Name": "נהריה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%9E%D7%A8%D7%9B%D7%96+%D7%A0%D7%A2%D7%9E%D7%9F+,%D7%A7%D7%A8%D7%99%D7%AA+%D7%91%D7%99%D7%90%D7%9C%D7%99%D7%A7&amp;hl=en&amp;ie=UTF8&amp;ll=32.881605,35.096169&amp;spn=0.203266,0.363579&amp;sll=32.805195,35.054182&amp;sspn=0.10172,0.181789&amp;hq=%D7%9E%D7%A8%D7%9B%D7%96+%D7%A0%D7%A2%D7%9E%D7%9F&amp;hnear=Kiryat+Bialik&amp;t=m&amp;z=12",
+        "MapX": 32.876699,
+        "MapY": 35.095972,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "מרכז נעמן כביש עכו קריות"
+      },
+      "BranchCode": "H01N11",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14099,
+      "IsDealer": true,
+      "Name": "גראנד פרי קריות",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "דיבוריות",
+          "Name": "התקנה ותחזוקה לדיבורית",
+          "Order": 7,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 7900,
+          "Name": "פתח תקווה",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 11,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%90%D7%A8%D7%99%D7%94+%D7%A9%D7%A0%D7%A7%D7%A8+11,+%D7%A4%D7%AA%D7%97+%D7%AA%D7%A7%D7%95%D7%95%D7%94&amp;hl=en&amp;ie=UTF8&amp;sll=32.881605,35.096169&amp;sspn=0.203266,0.363579&amp;oq=%D7%A9%D7%A0%D7%A7%D7%A8+11,+%D7%A4%D7%AA%D7%97&amp;hnear=Arye+Shenkar+St+11,+Petah+Tikva&amp;t=m&amp;z=17",
+        "MapX": 32.094901,
+        "MapY": 34.85519,
+        "Note": "אם מגיעים מז'בוטינסקי בהיכל שלמה ימינה אחרי 15 מטר מצד שמאל הבניין הצהוב",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שנקר אריה"
+      },
+      "BranchCode": "H03N18",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14101,
+      "IsDealer": true,
+      "Name": "דיבוריות - אוטוטו פתח תקווה",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7600,
+          "Name": "עכו",
+          "Region": "צפון"
+        },
+        "HouseNumber": 2,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps?q=%D7%93%D7%A8%D7%9A+%D7%94%D7%97%D7%A8%D7%95%D7%A9%D7%AA+2+%D7%A2%D7%9B%D7%95&amp;es_sm=122&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ei=izN2VNWQJ8WracL9gqgJ&amp;ved=0CAgQ_AUoAQ",
+        "MapX": 32.923209,
+        "MapY": 35.081279,
+        "Note": "הדוכן ממוקם בקומה הראשונה מול \"אריסטו שמט\".",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך החרושת"
+      },
+      "BranchCode": "L56",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "קומה 1 יש מעלית",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "חנייה בקניון",
+        "SERVICE_MAN": 0,
+        "WC": "יש בקניון"
+      },
+      "ID": 14379,
+      "IsDealer": false,
+      "Name": "דוכן מכירה קניון עכו",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 127,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%A9%D7%95%D7%A2%D7%A4%D7%90%D7%AA+27,+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D&amp;hl=en&amp;ie=UTF8&amp;sll=32.965427,35.546782&amp;sspn=0.025384,0.045447&amp;hnear=27+Derech+Shua'fat,+Jerusalem&amp;t=m&amp;z=17",
+        "MapX": 31.81493,
+        "MapY": 35.234386,
+        "Note": "בניין אפרג'אלקוץ",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שעפט"
+      },
+      "BranchCode": "H02M61",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14569,
+      "IsDealer": true,
+      "Name": "מרכז פרח ירושלים",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "10:00-18:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%91%D7%99%D7%AA+%D7%97%D7%A0%D7%99%D7%A0%D7%94+%D7%94%D7%97%D7%93%D7%A9%D7%94+1,&amp;hl=en&amp;ie=UTF8&amp;sll=31.768548,35.213579&amp;sspn=0.001617,0.00284&amp;hq=%D7%91%D7%99%D7%AA+%D7%97%D7%A0%D7%99%D7%A0%D7%94+%D7%94%D7%97%D7%93%D7%A9%D7%94+1,&amp;hnear=Jerusalem&amp;t=m&amp;z=10",
+        "MapX": 31.832109,
+        "MapY": 35.228011,
+        "Note": "בית חנינה",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אסאקקיני כליל"
+      },
+      "BranchCode": "H05M85",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14582,
+      "IsDealer": true,
+      "Name": "משווק פיוצר מוביל בע\"מ",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-20:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "09:00-20:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "דיבוריות",
+            "Name": "התקנה ותחזוקה לדיבורית",
+            "Order": 7,
+            "Type": ""
+          },
+          {
+            "ID": "מתקין דיבוריות למשאיות",
+            "Name": "מתקין דיבוריות למשאיות",
+            "Order": 10,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 70,
+          "Name": "אשדוד",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 16,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94+16,+%D7%90%D7%A9%D7%93%D7%95%D7%93&amp;hl=en&amp;ie=UTF8&amp;sll=31.967085,34.99167&amp;sspn=0.821338,1.454315&amp;hnear=Ha-Avoda+St+16,+Ashdod&amp;t=m&amp;z=17",
+        "MapX": 31.815986,
+        "MapY": 34.668611,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "העבודה"
+      },
+      "BranchCode": "H02N04",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 14583,
+      "IsDealer": true,
+      "Name": "רדיו סטיישן אשדוד",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 489,
+          "Name": "דבוריה",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%93%D7%91%D7%95%D7%A8%D7%99%D7%94&amp;hl=en&amp;ie=UTF8&amp;sll=31.784941,35.224946&amp;sspn=0.006429,0.011362&amp;hnear=Daburiyya&amp;t=m&amp;z=14",
+        "MapX": 32.689651,
+        "MapY": 35.373124,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אבו ח'רובה"
+      },
+      "BranchCode": "H02M54",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 15309,
+      "IsDealer": true,
+      "Name": "משווק פון אפ סטור",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-17:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "10:00-17:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-17:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-17:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-17:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-17:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "דיבוריות",
+            "Name": "התקנה ותחזוקה לדיבורית",
+            "Order": 7,
+            "Type": ""
+          },
+          {
+            "ID": "מתקין דיבוריות למשאיות",
+            "Name": "מתקין דיבוריות למשאיות",
+            "Order": 10,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9000,
+          "Name": "באר שבע",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 1,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%A4%D7%A0%D7%97%D7%A1+%D7%94%D7%97%D7%95%D7%A6%D7%91+1,+%D7%91%D7%90%D7%A8+%D7%A9%D7%91%D7%A2&amp;hl=en&amp;ie=UTF8&amp;sll=32.597351,34.951899&amp;sspn=0.025489,0.045447&amp;oq=%D7%A4%D7%A0%D7%97%D7%A1+%D7%94%D7%97%D7%95%D7%A6%D7%91+1,+%D7%91%D7%90&amp;hnear=Pinhas+Hahotsev+St+1,+Be'er+Sheva&amp;t=m&amp;z=17",
+        "MapX": 31.245194,
+        "MapY": 34.807224,
+        "Note": "מול שלמה Sixt ליד מתחם ONE",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "פנחס החוצב"
+      },
+      "BranchCode": "H02N20",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15324,
+      "IsDealer": true,
+      "Name": "וילי סטריאו באר שבע",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 9000,
+          "Name": "באר שבע",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 125,
+        "Location": "",
+        "MapURL": "https://www.google.co.il/maps/place/%D7%91%D7%99%D7%92+%D7%91%D7%90%D7%A8+%D7%A9%D7%91%D7%A2%E2%80%AD/@31.242577,34.81061,15z/data=!4m2!3m1!1s0x0:0x5cab765108229b0a?sa=X&amp;ei=nzN2VNb1DcrgatzMgtgM&amp;ved=0CI0BEPwSMA0",
+        "MapX": 31.250925,
+        "MapY": 34.771662,
+        "Note": "ליד ארומה &#xD;\nהטכנאי נמצא בין השעות 09:30 - 18:00&#xD;\nההפקדות לתיקון מתבצעות עד השעה 17:00",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שדרות דוד טוביהו"
+      },
+      "BranchCode": "G78",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 15336,
+      "IsDealer": false,
+      "Name": "Partner store גרנד קניון באר שבע",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-22:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;\n&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8800,
+          "Name": "שפרעם",
+          "Region": "צפון"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%90%D7%A8%D7%9B%D7%99%D7%91%D7%99%D7%A9%D7%95%D7%A3+%D7%90%D7%9C+%D7%97%D7%90%D7%92'%D7%A8%2F%D7%A9%D7%95%D7%A7+%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99,+%D7%A9%D7%A4%D7%A8%D7%A2%D7%9D&amp;hl=en&amp;ie=UTF8&amp;sll=32.805765,35.169971&amp;sspn=0.10172,0.181789&amp;oq=%D7%90%D7%A8%D7%9B%D7%99%D7%91%D7%99%D7%A9%D7%95%D7%A3+&amp;hnear=%D7%90%D7%A8%D7%9B%D7%99%D7%91%D7%99%D7%A9%D7%95%D7%A3+%D7%90%D7%9C+%D7%97%D7%90%D7%92'%D7%A8%2F%D7%A9%D7%95%D7%A7+%D7%A2%D7%99%D7%A8%D7%95%D7%A0%D7%99&amp;t=m&amp;z=17",
+        "MapX": "",
+        "MapY": "",
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "איליא אבו מאדי"
+      },
+      "BranchCode": "H05M74",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15368,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר סנטר שפרעם",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": false,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:00-16:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\nטלפון בסניף 0747499090&#xD;\nפתוח ביום שבת בין השעות 10:00-16:00.&#xD;",
+        "SaturdayFirstShift": "10:00-16:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8005,
+          "Name": "לוד נמל תעופה",
+          "Region": "שרון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.005514,
+        "MapY": 34.885261,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H02M99",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15503,
+      "IsDealer": true,
+      "Name": "מרכז שירות ומכירה ועד אל על",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-17:00",
+        "MondaySecondShift": "",
+        "Note": "שירות ומכירה יינתן לעובדי אל על בלבד&#xD;\n&#xD;\nלא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-17:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-17:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-17:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-17:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 531,
+          "Name": "עראבה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 25,
+        "Location": "",
+        "MapURL": "",
+        "MapX": "",
+        "MapY": "",
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אלשוהאדא"
+      },
+      "BranchCode": "H02M70",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15571,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר איתיסלאת",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "10:00-18:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 9,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=9+%D7%90+%D7%96%D7%94%D7%A8%D7%90',+%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D&amp;hl=en&amp;ie=UTF8&amp;sll=29.564883,34.957144&amp;sspn=0.006579,0.011362&amp;oq=+%D7%90+%D7%96%D7%94%D7%A8%D7%90'+9&amp;hnear=9+E-Zahra+St,+Jerusalem&amp;t=m&amp;z=17",
+        "MapX": 31.786362,
+        "MapY": 35.233161,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "א זהרה"
+      },
+      "BranchCode": "H02M63",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15624,
+      "IsDealer": true,
+      "Name": "מרכז זהרה תקשורת",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "10:00-18:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "דיבוריות",
+          "Name": "התקנה ותחזוקה לדיבורית",
+          "Order": 7,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 7400,
+          "Name": "נתניה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 31,
+        "Location": "",
+        "MapURL": "https://google.co.il/maps?q=%D7%94%D7%9E%D7%9C%D7%90%D7%9B%D7%94+31++%D7%A0%D7%AA%D7%A0%D7%99%D7%94&amp;hl=en&amp;ie=UTF8&amp;sll=32.818879,34.992969&amp;sspn=0.006357,0.011362&amp;hnear=Ha-Melakha+St+31,+Netanya&amp;t=m&amp;z=17",
+        "MapX": 32.282143,
+        "MapY": 34.859941,
+        "Note": "מול קניון הצעצועים - איזור תעשיה פולג",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "המלאכה"
+      },
+      "BranchCode": "H02N06",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15720,
+      "IsDealer": true,
+      "Name": "רדיו בלה בלה מיגון ושמע נתניה",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2730,
+          "Name": "טייבה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.266387,
+        "MapY": 35.009065,
+        "Note": "כניסה צפונית טייבה, ליד סניף ביטוח לאומי",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H02M41",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 15739,
+      "IsDealer": true,
+      "Name": "מרכז עבד אל גני תקשורת",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "11:00-20:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 70,
+          "Name": "אשדוד",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 6,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.788962,
+        "MapY": 34.641939,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "דרך בגין מנחם"
+      },
+      "BranchCode": "H05M06",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15746,
+      "IsDealer": true,
+      "Name": "משווק פרי אשדוד",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-20:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 1161,
+          "Name": "רהט",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.38725,
+        "MapY": 34.767302,
+        "Note": "במרכז המסחרי",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H02M42",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15808,
+      "IsDealer": true,
+      "Name": "מרכז נווה תקשורת רהט",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "דיבוריות",
+          "Name": "התקנה ותחזוקה לדיבורית",
+          "Order": 7,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 8700,
+          "Name": "רעננה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 15,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.194977,
+        "MapY": 34.880414,
+        "Note": "באזור רעננה צפון פנייה שניה ימינה ומגיעים לרחוב החרושת",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "החרושת"
+      },
+      "BranchCode": "H01N16",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15820,
+      "IsDealer": true,
+      "Name": "אביזרי רכב יוסי רעננה משווק דיבוריות",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": false,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "מכירה",
+          "Name": "הצטרפות לרשת partner",
+          "Order": 1,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 6100,
+          "Name": "בני ברק",
+          "Region": "גוש דן"
+        },
+        "HouseNumber": 123,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.086032,
+        "MapY": 34.836322,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "רבי עקיבא"
+      },
+      "BranchCode": "H04M04",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15845,
+      "IsDealer": true,
+      "Name": "משווק סיגרון בני ברק",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "08:30-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-22:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 481,
+          "Name": "מגאר",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.890492,
+        "MapY": 35.407666,
+        "Note": "כביש ראשי  צפוני&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": ""
+      },
+      "BranchCode": "H02M81",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 15935,
+      "IsDealer": true,
+      "Name": "משווק אורורה דיגיטל",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-17:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-17:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-17:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-17:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-17:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "דיבוריות",
+          "Name": "התקנה ותחזוקה לדיבורית",
+          "Order": 7,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 5000,
+          "Name": "תל אביב יפו",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 88,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.052097,
+        "MapY": 34.783479,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "חיל השריון"
+      },
+      "BranchCode": "H03N03",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16025,
+      "IsDealer": true,
+      "Name": "רדיו לוינסקי - תל אביב",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 507,
+          "Name": "כפר יאסיף",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": "",
+        "MapY": "",
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "כביש ראשי פנימי"
+      },
+      "BranchCode": "H02M66",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16049,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר כפר יאסיף",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": false,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:00-20:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-20:30",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "10:00-20:30",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-20:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-20:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-20:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2200,
+          "Name": "דימונה",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 25,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.060214,
+        "MapY": 35.020243,
+        "Note": "קניון דימונה",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "קניון פרץ סנטר"
+      },
+      "BranchCode": "H04M95",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16101,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר רום תקשורת",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-21:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 4000,
+          "Name": "חיפה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 32,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.811289,
+        "MapY": 34.998894,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "החלוץ"
+      },
+      "BranchCode": "H05M189",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16198,
+      "IsDealer": true,
+      "Name": "משווק פרטנר זרעיני פון",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2800,
+          "Name": "קרית שמונה",
+          "Region": "צפון"
+        },
+        "HouseNumber": 4,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 33.211098,
+        "MapY": 35.568586,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "טשרניחובסקי"
+      },
+      "BranchCode": "H04M58",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 16266,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר קריית שמונה PIC",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "לא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7100,
+          "Name": "אשקלון",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 21,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.66385,
+        "MapY": 34.564451,
+        "Note": "קניון גירון הדוכן הראשון בכניסה הראשית.",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שד בן גוריון"
+      },
+      "BranchCode": "G98",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 16358,
+      "IsDealer": false,
+      "Name": "דוכן מכירה אשקלון",
+      "PTNetwork": "050 - צוות",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;\n&#xD;\n&#xD;\n&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2610,
+          "Name": "בית שמש",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 6,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.77775,
+        "MapY": 35.012213,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אלון יגאל"
+      },
+      "BranchCode": "H05M58",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 16368,
+      "IsDealer": true,
+      "Name": "משווק פרטנר בית שמש",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:00-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-21:00",
+        "MondaySecondShift": "",
+        "Note": "ש' - שעה מצאת השבת ועד 23:00&#xD;\n&#xD;\nלא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-21:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-21:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-21:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-21:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "דיבוריות",
+          "Name": "התקנה ותחזוקה לדיבורית",
+          "Order": 7,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 34,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.759766,
+        "MapY": 35.179554,
+        "Note": "תחנת דלק פז",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "גולומב"
+      },
+      "BranchCode": "H01N17",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16430,
+      "IsDealer": true,
+      "Name": "מתקין דיבוריות אוטו סטראו",
+      "PTNetwork": "דיבוריות משווקים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-15:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-15:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-15:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-15:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-15:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2610,
+          "Name": "בית שמש",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 6,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 198972.851355,
+        "MapY": 629261.026995,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "אלון יגאל"
+      },
+      "BranchCode": "H06M186",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16447,
+      "IsDealer": true,
+      "Name": "משווק בית שמש 012",
+      "PTNetwork": "012 - דילרים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-20:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-20:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-20:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-20:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-20:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 7400,
+          "Name": "נתניה",
+          "Region": "תל אביב והשרון"
+        },
+        "HouseNumber": 12,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.275994,
+        "MapY": 34.845449,
+        "Note": "ליד MANIA JEANS",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שז\"ר זלמן"
+      },
+      "BranchCode": "G67",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 16454,
+      "IsDealer": false,
+      "Name": "דוכן מכירה קניון עיר ימים נתניה",
+      "PTNetwork": "050 - צוות",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-14:30",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-21:30",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 22:30&#xD;\n&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-21:30",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-21:30",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-21:30",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-21:30",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "שירות תיקונים במקום",
+            "Name": "שירות תיקונים במקום partner express",
+            "Order": 3,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 3000,
+          "Name": "ירושלים",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 0,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 31.858065,
+        "MapY": 35.218289,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "עטרות"
+      },
+      "BranchCode": "H02M147",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16475,
+      "IsDealer": true,
+      "Name": "משווק פרח תקשורת קניון עטרות",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-15:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-22:00",
+        "MondaySecondShift": "",
+        "Note": "שבת: מוצ\"ש-23:00&#xD;\n&#xD;\nלא ניתן להחזיר ציוד מושכר",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 502,
+          "Name": "ירכא",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 35.18333,
+        "MapY": 32.95629,
+        "Note": "סמוך לחנות קאסטרו&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "BIG FASHION"
+      },
+      "BranchCode": "G68",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 16532,
+      "IsDealer": false,
+      "Name": "דוכן מכירה ביג ירכא",
+      "PTNetwork": "050 - צוות",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "10:00-22:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-22:00",
+        "MondaySecondShift": "",
+        "Note": "ראשון-שבת 10:00-22:00&#xD;\nאין אפשרות לבצע החזרת ציוד מושכר",
+        "SaturdayFirstShift": "10:00-22:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-22:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-22:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-22:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-22:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "תשלומי קופה במזומן / כ\"א",
+            "Name": "תשלומי קופה במזומן / כ\"א",
+            "Order": 10,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2710,
+          "Name": "אום אל פחם",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.512319,
+        "MapY": 35.148498,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "א שאג'ור"
+      },
+      "BranchCode": "H06M191",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 16613,
+      "IsDealer": true,
+      "Name": "משווק אום אל פאחם",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:00-18:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "09:00-18:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:00-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:00-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:00-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:00-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "תיקון מכשיר בשלושה ימי עסקים",
+            "Name": "תיקון ב-3 ימי עסקים",
+            "Order": 4,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 8900,
+          "Name": "טמרה",
+          "Region": "צפון"
+        },
+        "HouseNumber": "",
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.860713,
+        "MapY": 35.178472,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "קניון טמרה"
+      },
+      "BranchCode": "H05M213",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 17124,
+      "IsDealer": true,
+      "Name": "חנות פרטנר טמרה",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": true,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "10:00-16:00",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-19:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          },
+          {
+            "ID": "מכירת מוצרי Iconz",
+            "Name": "מכירת מוצרי Iconz",
+            "Order": 62,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 2600,
+          "Name": "אילת",
+          "Region": "דרום וירושלים"
+        },
+        "HouseNumber": 8,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 29.554878,
+        "MapY": 34.965437,
+        "Note": "קניון אייסמול ליד קפה גרג קומה למעלה&#xD;",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "קאמפן"
+      },
+      "BranchCode": "G94",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 17140,
+      "IsDealer": false,
+      "Name": "דוכן אייס מול טופ אילת",
+      "PTNetwork": "מרכזי שירות ומכירה",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-17:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-23:00",
+        "MondaySecondShift": "",
+        "Note": "שעות פעילות שישי: מ 09:00 ועד שעה לפני כניסת שבת&#xD;\nשעות פעילות מוצ\"ש: חצי שעה מצאת השבת עד 23:00&#xD;\n&#xD;\nהחזרת ציוד ניתן לבצע רק בדוכן *מול הים &#xD;\nבלבד*&#xD;",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-23:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-23:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-23:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-23:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": {
+          "ID": "מכירה",
+          "Name": "הצטרפות לרשת partner",
+          "Order": 1,
+          "Type": ""
+        }
+      },
+      "Address": {
+        "City": {
+          "ID": 7600,
+          "Name": "עכו",
+          "Region": "צפון"
+        },
+        "HouseNumber": 65,
+        "Location": "",
+        "MapURL": "",
+        "MapX": 32.9250797481,
+        "MapY": 35.08094526,
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "בן עמי"
+      },
+      "BranchCode": "H05M240",
+      "Handicap": {
+        "ACCESS_POINT": "",
+        "ACCESS_WAY": "",
+        "HARD_HEARING": "",
+        "LABEL": "",
+        "PARKING": "",
+        "SERVICE_MAN": "",
+        "WC": ""
+      },
+      "ID": 17200,
+      "IsDealer": true,
+      "Name": "משווק אינפיניטי פון גיימינג עכו",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": true,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "09:00-13:00",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "09:30-18:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "09:30-18:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "09:30-18:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "09:30-18:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "09:30-18:00",
+        "WednesdaySecondShift": ""
+      }
+    },
+    {
+      "ActivityList": {
+        "Activity": [
+          {
+            "ID": "מכירה",
+            "Name": "הצטרפות לרשת partner",
+            "Order": 1,
+            "Type": ""
+          },
+          {
+            "ID": "שירות ללקוח",
+            "Name": "שירות ללקוח",
+            "Order": 2,
+            "Type": ""
+          },
+          {
+            "ID": "רכישת מגוון מוצרים",
+            "Name": "רכישת מגוון מוצרים",
+            "Order": 61,
+            "Type": ""
+          }
+        ]
+      },
+      "Address": {
+        "City": {
+          "ID": 534,
+          "Name": "עספיא",
+          "Region": "צפון"
+        },
+        "HouseNumber": "311-319",
+        "Location": "",
+        "MapURL": "",
+        "MapX": "",
+        "MapY": "",
+        "Note": "",
+        "PhoneArea": "",
+        "PhoneNumber": "",
+        "Street": "שד אבא חושי"
+      },
+      "BranchCode": "H05M253",
+      "Handicap": {
+        "ACCESS_POINT": 0,
+        "ACCESS_WAY": "",
+        "HARD_HEARING": 0,
+        "LABEL": 0,
+        "PARKING": "",
+        "SERVICE_MAN": 0,
+        "WC": ""
+      },
+      "ID": 17338,
+      "IsDealer": true,
+      "Name": "מרכז פרטנר עספיא",
+      "PTNetwork": "משווקים פרטיים",
+      "ReceptionHours": {
+        "ActiveFriday": false,
+        "ActiveMonday": true,
+        "ActiveSaturday": false,
+        "ActiveSunday": true,
+        "ActiveThursday": true,
+        "ActiveTuesday": true,
+        "ActiveWednesday": true,
+        "FridayFirstShift": "",
+        "FridaySecondShift": "",
+        "MondayFirstShift": "10:00-19:00",
+        "MondaySecondShift": "",
+        "Note": "",
+        "SaturdayFirstShift": "",
+        "SaturdaySecondShift": "",
+        "SundayFirstShift": "10:00-19:00",
+        "SundaySecondShift": "",
+        "ThursdayFirstShift": "10:00-14:00",
+        "ThursdaySecondShift": "",
+        "TuesdayFirstShift": "10:00-19:00",
+        "TuesdaySecondShift": "",
+        "WednesdayFirstShift": "10:00-19:00",
+        "WednesdaySecondShift": ""
+      }
+    }
+  ]
