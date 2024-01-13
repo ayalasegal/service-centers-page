@@ -33,7 +33,9 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/assets",
-              "src/fonts"
+              "src/fonts",
+              "assets"
+
 
             ],
             "styles": [
