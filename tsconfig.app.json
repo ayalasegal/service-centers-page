@@ -12,11 +12,6 @@
     "src/main.server.ts",
     "server.ts"
   ],
-  "paths": {
-    "@app/*": ["app/*"],
-    "@assets/*": ["assets/*"],
-    // Add more aliases as needed
-  },
   "include": [
     "src/**/*.d.ts"
   ]

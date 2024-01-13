@@ -24,11 +24,6 @@
       "dom"
     ]
   },
-  "paths": {
-    "@app/*": ["app/*"],
-    "@assets/*": ["assets/*"],
-    // Add more aliases as needed
-  },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,

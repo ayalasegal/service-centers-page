@@ -1,12 +1,13 @@
 import { Component } from '@angular/core';
 import {Selection} from '../../models/selection.interface'
 import { SelectionStatus } from '../../models/selection-status.enum';
-import { ServiceCenter } from '../../models/service-center/servicecenter.model';
-import { DataService } from '../../services/data.service';
+import { ChangeDetectionStrategy } from '@angular/core';
+
 @Component({
   selector: 'service-centers',
   templateUrl: './service-centers.component.html',
-  styleUrl: './service-centers.component.css'
+  styleUrl: './service-centers.component.css',
+  changeDetection:ChangeDetectionStrategy.OnPush
 })
 export class ServiceCentersComponent {
   selection:Selection
