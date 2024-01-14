@@ -14,16 +14,17 @@ export class ServiceCentersPanelComponent implements OnChanges{
 
   @Input()
   selection!: Selection
-  serviceCenters:ServiceCenter[]=[]
-  statusTypes= SelectionStatus
-constructor(private dataService:DataService){}
+  serviceCenters:ServiceCenter[]
+  statusTypes: typeof SelectionStatus
+constructor(private dataService:DataService){
+  this.serviceCenters=[]
+  this.statusTypes=SelectionStatus
+}
   ngOnChanges(changes: SimpleChanges): void {
-    console.log("in panel, selection is: ",this.selection)
     if(this.selection.status==SelectionStatus.Complete){
     this.dataService.getServiceCenters(this.selection.selection!.city,this.selection.selection!.activities).subscribe(
-      (serviceCenters:ServiceCenter[])=>{
+      (serviceCenters:ServiceCenter[])=>
         this.serviceCenters=serviceCenters
-        console.log(this.serviceCenters)}
     )  }}
 
 

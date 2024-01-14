@@ -20,15 +20,13 @@ export class DataService {
         centers.filter((center) =>
           center.Address.City.ID === city.ID &&
           services.every((service) => {
-            const activities = center.ActivityList?.Activity;
-  
+            const activities = center.ActivityList?.Activity; 
             if (Array.isArray(activities)) {
               return activities.some((activity) => activity.ID === service.ID);
             } else if (activities) {
               // If it's a single object, compare its ID directly
               return activities.ID === service.ID;
-            }
-  
+            } 
             return false; // Handle the case where ActivityList or Activity is undefined
           })
         )
@@ -42,8 +40,7 @@ export class DataService {
       map((centers) => {
         const activities: Activity[] = [];  
         centers.forEach((center) => {
-          const centerActivities = center.ActivityList?.Activity;
-  
+          const centerActivities = center.ActivityList?.Activity;  
           if (centerActivities !== undefined) {
             if (Array.isArray(centerActivities)) {
               activities.push(...centerActivities);
@@ -52,7 +49,6 @@ export class DataService {
             }
           }
         });
-  
         return this.getUniqueActivities(activities);
       })
     );
@@ -63,13 +59,11 @@ export class DataService {
   private getUniqueActivities(activities: Activity[]): Activity[] {
     const uniqueActivities: Activity[] = [];
     const activityIdsSet = new Set<string>();
-
     activities.forEach((activity) => {
       if (!activityIdsSet.has(activity.ID)) {
         uniqueActivities.push(activity);
         activityIdsSet.add(activity.ID);
       }
     });
-
     return uniqueActivities;
   }}

@@ -4,6 +4,9 @@
     text-align: right;
     justify-content: right;
 }
+.note{
+  width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word
+}
 
 .activity-buttons-container {
     justify-content: flex-end; /* Aligns the buttons to the right */

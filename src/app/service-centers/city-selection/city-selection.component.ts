@@ -1,5 +1,4 @@
 import { Component, EventEmitter, OnInit, Output } from '@angular/core';
-import { FormControl, Validators } from '@angular/forms';
 import { DataService } from '../../services/data.service'; // Update with the correct path
 import { City } from '../../models/service-center/city.model';
 import { ViewChild } from '@angular/core';

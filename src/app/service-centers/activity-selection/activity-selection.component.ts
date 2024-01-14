@@ -10,10 +10,12 @@ import { Activity } from '../../models/service-center/activity.model';
 export class ActivitySelectionComponent implements OnInit {
   @Output() selectedActivitiesChanged = new EventEmitter<Activity[]>();
 
-  activities: Activity[] = [];
-  selectedActivities: Activity[] = [];
+  activities!: Activity[] ;
+  selectedActivities: Activity[];
 
-  constructor(private dataService: DataService) {}
+  constructor(private dataService: DataService) {  
+    this.selectedActivities=[]  
+  }
 
   ngOnInit(): void {
     this.dataService.getAllActivities().subscribe((activities) => {

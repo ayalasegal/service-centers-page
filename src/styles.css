@@ -38,17 +38,12 @@
   position: absolute;
   width: 100%; /* Adjust the width as needed */
   z-index: -1; /* Ensures the banner is underneath other elements */
+  top: 0;
 }
 .activity-button {
   margin-top: 1%;
 }
 
-/* Default styles for larger screens */
-.banner {
-  position: absolute;
-  width: 100%;
-  z-index: -1;
-}
 .mobile{
   display: none;
   width: 100%;

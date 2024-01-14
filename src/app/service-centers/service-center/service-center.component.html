@@ -16,8 +16,7 @@
       </div>
       <div class="additional-text">
         <div *ngFor="let days of getDynamicSchedule(center.ReceptionHours)">{{days}}</div>
-        <!-- <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word">שעות פעילות טכנאי: הפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי. *מכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת<br/>התקנה ותחזוקה לדיבורית*</div> -->
-        <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word" [innerHTML]="convertToHTML(center.ReceptionHours.Note)"></div>
+        <div class="note" [innerHTML]="convertToHTML(center.ReceptionHours.Note)"></div>
 
       </div>
       <div class="card-sub-title">
@@ -40,8 +39,6 @@
             >
             {{activity.Name}}
             </p-button>
-        <!-- <p-button  [rounded]=" true" [outlined]="false" [class.stressed]="false" [class.hovered]="false" class="activity-button-disabled">הצטרפות לפרטנר</p-button>
-          <p-button [rounded]=" true" [outlined]="true" [class.stressed]="false"  [class.hovered]="false" class="activity-button-disabled">פרטנר Express</p-button> -->
         </div>
       </div>
   </div>
