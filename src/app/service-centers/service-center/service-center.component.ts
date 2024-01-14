@@ -2,6 +2,7 @@ import { Component, Input } from '@angular/core';
 import { ServiceCenter } from '../../models/service-center/servicecenter.model';
 import { Activity } from '../../models/service-center/activity.model';
 import { ChangeDetectionStrategy } from '@angular/core';
+import { ReceptionHours } from '../../models/service-center/reception-hours.model';
 
 @Component({
   selector: 'service-center',
@@ -33,27 +34,61 @@ export class ServiceCenterComponent {
     return `${formatTime(start)}-${formatTime(end)}`;
   }
   
- getDynamicSchedule(reception: any): string {
-    console.log(reception)
-    const activeDays: string[] = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-    let scheduleString: string = '';
-  
-    if (reception.ReceptionHours) { // בדיקה אם יש ReceptionHours
-      activeDays.forEach((day, index) => {
-        if (reception.ReceptionHours['Active' + day]) {
-          const startTime: string = reception.ReceptionHours[day + 'FirstShift'];
-          const endTime: string = reception.ReceptionHours[day + 'SecondShift'];
-  
-          if (index > 0) {
-            scheduleString += '-';
+ getDynamicSchedule(receptionHours: ReceptionHours) {
+    const days: string[] = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const daysInHebrew: string[] = ["ראשון", "שני", "שלישי", "רביעי", "חמישי", "שישי", "שבת"];
+    const formattedHours =[]
+    let currentDays:string[]=[];
+    let currentDay = "";
+    let currentShifts = "";
+      days.forEach((day, index) => {
+        const isActive = (receptionHours as any)[`Active${day}`];
+        const firstShift = (receptionHours as any)[`${day}FirstShift`];
+        const secondShift = (receptionHours as any)[`${day}SecondShift`];
+        let IterationShifts = ""
+        if (isActive) {
+            currentDay = daysInHebrew[index];
+            if(firstShift!= "")
+            IterationShifts = `${firstShift}`
+            if(secondShift!= "")
+            IterationShifts+= `-${secondShift}`
+            if (currentShifts === "") {
+              currentShifts= IterationShifts
+          } else if (currentShifts === IterationShifts) {
+            currentDays.push(daysInHebrew[index])
+          } else {
+            if(currentDays.length>1){
+              formattedHours.push(`${currentDays[0]}-${currentDays[currentDays.length-1]} ${currentShifts}`)
+              currentDays =[]
+            }
+            currentDay = daysInHebrew[index];
+            currentShifts = IterationShifts;
           }
-  
-          scheduleString += `${day.substring(0, 2)}: ${this.convertTimeFormat(startTime)}-${this.convertTimeFormat(endTime)}`;
-        }
-      });
-    }
-    return scheduleString;
+        } else {
+
+          if (currentShifts !== "") {
+          if(currentDays.length>1){
+            formattedHours.push(`${currentDays[0]}-${currentDays[currentDays.length-1]} ${currentShifts}`)
+          }else{
+            formattedHours.push(`${currentDay} ${currentShifts}`);
+            currentDay = "";
+            currentShifts = "";
+          }
+          currentDays =[]
+          }
+        }}
+        )
+
+  // Push the last formatted shifts (if any)
+  if (currentShifts !== "") {
+    if(currentDays.length>1)
+      formattedHours.push(`${currentDays[0]}-${currentDays[currentDays.length-1]} ${currentShifts}`)
+    else
+    formattedHours.push(`${currentDay} ${currentShifts}`);
   }
+  return formattedHours;
+    }
+
   normalizeActivities(activities: Activity[] | Activity): Activity[] {
     return Array.isArray(activities) ? activities : [activities];
   }

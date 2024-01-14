@@ -15,9 +15,7 @@
         </div>
       </div>
       <div class="additional-text">
-        {{getDynamicSchedule(center.ReceptionHours)}}
-        <div>שישי 08:30-13:00</div>
-        <div>שישי 08:30-13:00</div>
+        <div *ngFor="let days of getDynamicSchedule(center.ReceptionHours)">{{days}}</div>
         <!-- <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word">שעות פעילות טכנאי: הפקדה לתיקון במקום תינתן כשעתיים לפני סיום שעות פעילות טכנאי. *מכשירים שיופקדו לאחר מכן, יטופלו ביום למחרת<br/>התקנה ותחזוקה לדיבורית*</div> -->
         <div style="width: 100%; text-align: right; color: #0E0E0E; font-size: 14px; font-family: Simpler; font-weight: 400; word-wrap: break-word" [innerHTML]="convertToHTML(center.ReceptionHours.Note)"></div>
 
