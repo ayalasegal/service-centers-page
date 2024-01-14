@@ -1,14 +1,12 @@
 import { Component, Input } from '@angular/core';
 import { ServiceCenter } from '../../models/service-center/servicecenter.model';
 import { Activity } from '../../models/service-center/activity.model';
-import { ChangeDetectionStrategy } from '@angular/core';
 import { ReceptionHours } from '../../models/service-center/reception-hours.model';
 
 @Component({
   selector: 'service-center',
   templateUrl: './service-center.component.html',
   styleUrl: './service-center.component.css',
-  changeDetection:ChangeDetectionStrategy.OnPush
 })
 export class ServiceCenterComponent {
   @Input()
